@@ -3,3 +3,4 @@ transformers==4.41.1
 torch==2.2.2+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
 
+
